@@ -1,0 +1,4 @@
+pera income 2000
+mika withdrawal 1400
+zika income 2000
+pera withdrawal 3000
