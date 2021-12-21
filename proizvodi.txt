@@ -1,5 +1,0 @@
-zvake|3|50
-mleko|150|3
-mleko/140/2
-mleko/12/2
-brasno/100/3
